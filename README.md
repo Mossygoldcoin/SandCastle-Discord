@@ -1,1 +1,1 @@
-# SandCastle-Discord
+## SandCastle
